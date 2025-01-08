@@ -419,7 +419,7 @@ Weaknesses:
 - The creditor did not make any explicit promise or commitment to forbear from suing the son. So it's questionable whether his temporary delay in filing suit was meant as consideration for the father's promise.
 - The father did not request forbearance in exchange for his promise to pay. It seems it was simply an expected but unstated result of his promise to pay. A lack of expressed intent by both parties to exchange forbearance for the father's promise makes the argument for consideration weaker.
 - The creditor's decision to delay filing suit may have been for other reasons besides the father's promise, such as not thinking it was worthwhile if the debt would soon be paid off. So it's debatable whether forbearance was truly exchanged for the father's promise.
-<sub_a_5>
+</sub_a_5>
 <sub_a_6>
 Strengths:
 - The father made a clear promise to pay the son's debt, as evidenced by the signed document stating he would make monthly payments. This could be considered a sufficiently definite promise.
